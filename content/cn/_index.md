@@ -15,4 +15,4 @@ type : list-single
 
 
 **关于本站**  
-本站结构采用 [Hugo](https://gohugo.io)。主题为 [Hugo-ht](https://github.com/hongtaoh/hugo-ht)。
+本站基于 [Hugo](https://gohugo.io)。主题为 [Hugo-ht](https://github.com/hongtaoh/hugo-ht)。
