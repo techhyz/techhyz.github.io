@@ -1,1 +1,2 @@
-# My personal website: hyzhu.com
+# Personl website
+Support by Hugo
