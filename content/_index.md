@@ -12,10 +12,10 @@ title:
 
 **Contact me**  
 [sean@hyzhu.com](mailto:sean@hyzhu.com)  
-<a href="https://www.linkedin.com/in/sean-zhu-90267b170/" target="_blank" style="border-bottom:0">
+<!-- <a href="https://www.linkedin.com/in/sean-zhu-90267b170/" target="_blank" style="border-bottom:0">
   <img src="/linkedin.svg" alt="LinkedIn" style="width: 24px; vertical-align: sub">
   LinkedIn
-</a>
+</a> -->
 
 
 **About the site**  
