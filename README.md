@@ -1,2 +1,2 @@
-# Personl website
+# Personal website
 Support by Hugo
